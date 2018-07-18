@@ -1,3 +1,3 @@
 function functionName() {
-  console.log('New file 1');
+  console.log('New file');
 }
